@@ -1,0 +1,11 @@
+public class Toy {
+    public String name;
+    public String brand;
+    public double price;
+    public int quantity;
+    //psvm - public ststic void main(String[] args) {}
+    public static void main(String[] args) {
+        //sout System.out.println("hello java trainees")
+        System.out.println("hello JAVAwockees");
+    }
+}
